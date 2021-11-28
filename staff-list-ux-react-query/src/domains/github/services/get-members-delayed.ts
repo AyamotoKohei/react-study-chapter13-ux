@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 import ky, { Options } from 'ky';
 import { DEFAULT_API_OPTIONS } from './config';
 import { isUsers, User } from '../models/user';
